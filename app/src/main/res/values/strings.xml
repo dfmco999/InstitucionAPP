@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InstitucionAPP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_salir">Salir</string>
+    <string name="btn_soyacudiente">Soy Acudiente</string>
+    <string name="btn_soydocente">Soy Docente</string>
+    <string name="btn_soydirector">Soy Director</string>
+    <string name="message_welcome">Bienvenido a InstitucionAPP, un sistema creado con ayuda del ministerio de educacion nacional que busca facilitar el proceso de matricula.</string>
+    <string name="title_activity_frm_main_estudiante">Módulo Estudiante</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frm_main_docente">Módulo Docente</string>
+    <string name="title_activity_frm_main_director">Módulo Director</string>
+</resources>
